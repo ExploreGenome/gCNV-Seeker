@@ -3,8 +3,6 @@
 
 
 
-# Project Title
-
 ## Description
 
 This project is currently ongoing and we are excited to announce that it will soon be available online as a easy-to-use tool for germline copy number variation detecion. We have been working hard to develop and refine our packages, and we are confident that it will be a valuable resource for researchers in our field. 
