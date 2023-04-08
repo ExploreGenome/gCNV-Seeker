@@ -3,11 +3,7 @@ A high quality resource for assessing the accuracy and sensitivity of gCNV calli
 
 ## Description
 
-This project is currently ongoing and we are excited to announce that it will soon be available online as a easy-to-use tool for germline copy number variation detecion and validation. We have been working hard to develop and refine our packages, and we are confident that it will be a valuable resource for researchers in our field. 
-
-The Github repository will include a comprehensive readme file that provides a detailed description of the project, its goals, and its functionality. We invite anyone who is interested in our work to check out the repository and explore the code, and we welcome feedback and contributions from the community.
-
-Stay tuned for updates on the official release date!
+'''gCNV-Seeker GoldenCNV Dataset''' is a high-quality CNV calling dataset developed to serve as a benchmark for comparing different CNV calling algorithms. The dataset includes genomic regions with different types of CNVs, such as deletions and amplifications, as well as regions with normal copy numbers. The CNV calls in the dataset were generated using a combination of high-throughput sequencing and microarray-based technologies, and were validated using multiple independent experimental methods. CNV-Gold provides a reliable and comprehensive resource for assessing the accuracy and sensitivity of CNV calling algorithms, and for improving the detection of CNVs in human populations.
 
 ## Getting Started
 
