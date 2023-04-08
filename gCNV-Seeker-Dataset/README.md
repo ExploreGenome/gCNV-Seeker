@@ -9,5 +9,5 @@ GoldenCNV is aimed at providing a reliable and comprehensive resource for assess
 
 ## Acknowledgments
 
-We would like to acknowledge the whole Sherlock-lung team for their contributions to this project.
+We would like to acknowledge the whole Sherlock-lung team for their contributions to the development of  GoldenCNV Dataset.
 
