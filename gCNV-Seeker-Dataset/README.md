@@ -1,4 +1,4 @@
-# gCNV-Seeker
+# gCNV-Seeker GoldenCNV Dataset
  A comprehensive germline CNV detection and validation pipeline based on whole genome sequencing data
 
 
