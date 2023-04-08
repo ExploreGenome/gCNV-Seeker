@@ -1,9 +1,5 @@
 # gCNV-Seeker GoldenCNV Dataset
- A comprehensive germline CNV detection and validation pipeline based on whole genome sequencing data
-
-
-
-# Project Title
+A high quality resource for assessing the accuracy and sensitivity of gCNV calling algorithms based on whole genome sequencing data.
 
 ## Description
 
