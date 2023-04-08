@@ -6,7 +6,7 @@
 
 After detection from CNV caller(s), the calling results in the dataset were validated using gCNV-Seeker and manucal curation. Unlike the existed benchmark dataset (NA12878) which mainly focus on one sample in the HapMap project, GoldenCNV select multiple high-confident regions (>5000 bp) from more than 3000 human genomes in the 1000 Genome Project. 
 
-## Aim
+## Study Aim
 
 The goal of GoldenCNV is to provide a reliable and comprehensive resource for assessing the accuracy and sensitivity of CNV calling algorithms, which can help to improve the detection of CNVs in large populations.
 
