@@ -1,5 +1,4 @@
 # gCNV-Seeker GoldenCNV
-A high quality dataset for assessing the accuracy and sensitivity of gCNV calling algorithms based on whole genome sequencing data.
 
 ## Description
 
