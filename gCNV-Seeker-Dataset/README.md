@@ -11,7 +11,11 @@ After detection from CNV caller(s), the calling results in the dataset were vali
 
 The goal of GoldenCNV is to provide a reliable and comprehensive resource for assessing the accuracy and sensitivity of CNV calling algorithms, which can help to improve the detection of CNVs in large populations.
 
+## Release note
+
+GoldenCNV is in the development stage, and the official version will be online soon.
+
 ## Acknowledgments
 
-We would like to acknowledge the whole Sherlock-lung team for their contributions to the development of  GoldenCNV Dataset.
+We would like to acknowledge the whole Sherlock-lung team for their contributions to the development of GoldenCNV Dataset.
 
