@@ -13,7 +13,7 @@ The goal of GoldenCNV is to provide a reliable and comprehensive resource for as
 
 ## Release note
 
-GoldenCNV is still in the development stage, the official version will be online soon.
+GoldenCNV is still in the development stage, and our official version will be online soon.
 
 ## Acknowledgments
 
