@@ -3,7 +3,7 @@ A high quality gCNV calling dataset for assessing the accuracy and sensitivity o
 
 ## Description
 
-**gCNV-Seeker GoldenCNV** is a high-quality CNV calling dataset developed to serve as a benchmark for comparing CNV calling algorithms based on whole genome sequecning technology. The GoldenCNV dataset includes genomic regions with four major types of CNVs, (1) Heterozygous deletion (2) Homozygous deletion (3) One-copy amplification, and (4) multi-copy amplification. 
+**gCNV-Seeker GoldenCNV** is a high-quality CNV calling dataset developed to serve as a benchmark for comparing different CNV calling algorithms based on whole genome sequecning technology. The GoldenCNV dataset includes genomic regions with four major types of CNVs, (1) Heterozygous deletion (2) Homozygous deletion (3) One-copy amplification, and (4) multi-copy amplification. 
 
 After detection from CNV caller(s), the calling results in the dataset were validated using gCNV-Seeker and manucal curation. Unlike the existed benchmark dataset (NA12878) which mainly focus on one sample in the HapMap project, GoldenCNV select multiple high-confident regions (>5000 bp) from more than 3000 human genomes in the 1000 Genome Project. 
 
