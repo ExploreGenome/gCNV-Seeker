@@ -1,4 +1,5 @@
 # gCNV-Seeker GoldenCNV
+A high quality gCNV calling dataset for assessing the accuracy and sensitivity of gCNV detection algorithms.
 
 ## Description
 
